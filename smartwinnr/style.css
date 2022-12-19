@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Lobster&family=Poppins:wght@200&family=Roboto:wght@300&display=swap');
+*{
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family:'Roboto', sans-serif;
+    text-decoration: none;
+}
+.main{
+    background-color:#3429be ;
+    font-weight: lighter;
+    padding:0px 150px;
+
+}
+section{
+  padding:40px 150px;
+  background:linear-gradient(to top,rgb(238, 236, 236),white);
+ }
+.content{
+  padding:60px 20px;
+ }
+.text{
+    padding-top: 60px !important;
+}
+.swoop {
+    position: absolute;
+    margin-top: -4%;
+    
+  }
+  .sec-img{
+      width: 90%;
+      height: 95%;
+  }
+  .linka{
+    color: #3429be;
+    text-decoration: none;
+  }
+.main2{
+
+  height: 500px;
+
+}
+ a{
+  text-decoration: none;
+  color: black;
+}
+ a:hover{
+  color: #3429be;
+}
+  
+footer li{
+  list-style: none;
+ }
+
+
+  .logo{
+  width: 150px;
+  height: 50px;
+  }
+  .tick{
+    list-style-image: url('images/tick_uzrclf.png');
+  }
+
+ .swiper{
+  width: 600px;
+  height: 300px;
+ }
+ .swiper-img{
+  height: 200px;
+  width: auto;
+  max-width: 100%;
+  object-fit: cover;
+
+ }
+
+
+
+button{
+  background-color: #3429be;
+}
+  /* .swoop-top {
+    position: absolute;
+    transform: rotate(180deg);
+    margin-top: -4%;
+  } */
+
+  .form1
+  {
+    padding: 20px;
+    background-color:#4e6bdf;
+    border-radius: 5px;
+  }
+  label{
+    color: white;
+    font-weight: bold;
+  }
+  input[type='text'],textarea{
+    width: 80%;
+    border-radius: 5px;
+    border: none;
+    height: 40px;
+  
+  }
+  form1 span{
+    padding-right: 10px;
+  }
